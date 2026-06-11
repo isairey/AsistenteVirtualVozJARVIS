@@ -274,6 +274,14 @@ git checkout -b feature/nueva-funcionalidad
 
 ---
 
+## 👨‍💻 Desarrollador
+
+**Isai Reyes — AI & Full Stack Developer**
+
+Especializado en Inteligencia Artificial, Desarrollo Web, Automatización y Plataformas de Productividad 🚀
+
+---
+
 ## 📄 Licencia
 
 Este proyecto se distribuye bajo licencia Open Source.
